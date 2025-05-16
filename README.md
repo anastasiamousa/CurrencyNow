@@ -12,7 +12,7 @@ A simple currency converter built with SwiftUI & MVVM, using live exchange rates
 
 | Main Screen |
 |-------------|
-| ![screenshot](Resources/Assets/preview.png) |
+| ![screenshot](CurrencyNow/Resources/Assets.xcassets/Preview.imageset) |
 
 ## Tech
 - SwiftUI
