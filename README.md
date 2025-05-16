@@ -10,9 +10,11 @@ A simple currency converter built with SwiftUI & MVVM, using live exchange rates
 
 ## Screenshots
 
-| Main Screen |
-|-------------|
-| ![screenshot]() |
+<h3 align="center">📱 Preview</h3>
+<p align="center">
+  <img src="Assets/preview.png" width="300"/>
+</p>
+
 
 ## Tech
 - SwiftUI
