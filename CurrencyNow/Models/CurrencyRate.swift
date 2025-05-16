@@ -6,6 +6,7 @@
 //
 
 struct CurrencyConversionResponse: Decodable {
-    let result: Double
+    let success: Bool
+    let result: Double?
 }
 
